@@ -120,18 +120,19 @@ Generated a business report with:
 
 **🔗 How to Run the Project**
 
-1•Open the Jupyter Notebook:
+• Open the Jupyter Notebook:
 
-notebooks/analysis.ipynb
-2•Run data preprocessing and EDA
-3•Load data into SQL database
-4•Execute queries from:
+Customer_shopping_Behavior_Analysis.ipynb
 
+• Run data preprocessing and EDA
+• Load data into SQL database
+• Execute queries from:
 
+Customer behavior analysis.sql
 
 5•Open Power BI file:
 
-dashboard/dashboard.pbix
+Customer behavior analysis.sql
 
 **📌 Future Improvements**
 
@@ -142,4 +143,3 @@ dashboard/dashboard.pbix
 **🤝 Connect With Me**
 
 •LinkedIn: www.linkedin.com/in/anil-kumar-m-8322a52a3
-•GitHub: (Your GitHub link)
